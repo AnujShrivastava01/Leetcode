@@ -46,9 +46,9 @@ I'll update this table monthly to keep track of my progress! 💪
 
 ## 🤝 Connect with Me
 
-- **LinkedIn**: [Anuj Shrivastava](https://linkedin.com/in/anujshrivastava)
-- **Email**: [anujshrivastava@example.com](mailto:anujshrivastava@example.com)
-- **GitHub**: [github.com/anujshrivastava](https://github.com/anujshrivastava)
+- **LinkedIn**: [Anuj Shrivastava](https://www.linkedin.com/in/anuj-shrivastava-949645299/)
+- **Email**: [anujshrivastava10e@gmail.com](mailto:anujshrivastava10e@gmail.com)
+- **GitHub**: [github.com/anujshrivastava01](https://github.com/Anujshrivastava01)
 
 Feel free to reach out for collaboration or feedback. Happy coding! ✨
 
