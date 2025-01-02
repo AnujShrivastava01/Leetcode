@@ -1,18 +1,18 @@
-# Day 2 - LeetCode Problem: Count Vowel Strings in Ranges
+# Day 2 - LeetCode Problem: Count Vowel Strings in Ranges 🌟
 
-## Problem Description
+## Problem Description 📜
 You are given a 0-indexed array of strings `words` and a 2D array of integers `queries`.
 
 Each query `queries[i] = [li, ri]` asks us to find the number of strings present in the range `li` to `ri` (both inclusive) of `words` that start and end with a vowel.
 
 Return an array `ans` of size `queries.length`, where `ans[i]` is the answer to the `i-th` query.
 
-### Notes:
+### Notes 📝:
 - The vowel letters are `'a'`, `'e'`, `'i'`, `'o'`, and `'u'`.
 
 ---
 
-## Examples
+## Examples 🔍
 
 ### Example 1:
 **Input**:  
@@ -41,7 +41,7 @@ Return an array `ans` of size `queries.length`, where `ans[i]` is the answer to 
 
 ---
 
-## Constraints:
+## Constraints ⚠️:
 - `1 <= words.length <= 10^5`
 - `1 <= words[i].length <= 40`
 - `words[i]` consists only of lowercase English letters.
@@ -51,7 +51,7 @@ Return an array `ans` of size `queries.length`, where `ans[i]` is the answer to 
 
 ---
 
-## Approach
+## Approach 🚀
 
 ### Optimized Prefix Sum Solution
 - **Logic**:
@@ -69,7 +69,7 @@ Return an array `ans` of size `queries.length`, where `ans[i]` is the answer to 
 
 ---
 
-## Code:
+## Code 💻:
 ```cpp
 class Solution {
 public:
@@ -103,7 +103,7 @@ public:
 
 ---
 
-## Complexity Analysis
+## Complexity Analysis 🧠
 
 ### Time Complexity:
 - **Building Prefix Sum**: O(n), where `n` is the size of the `words` array.  
@@ -115,7 +115,7 @@ public:
 
 ---
 
-## Results
+## Results 📊
 | Step            | Time Complexity | Space Complexity | Remarks                  |
 |------------------|-----------------|------------------|--------------------------|
 | Build Prefix Sum | O(n)            | O(n)             | Efficient preprocessing. |
@@ -123,7 +123,7 @@ public:
 
 ---
 
-## Problem Link
+## Problem Link 🔗
 You can find the problem description on LeetCode: [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
 
 ---
