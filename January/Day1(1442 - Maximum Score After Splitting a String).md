@@ -1,4 +1,4 @@
-# Day 1 - LeetCode Problem 1442: Maximum Score After Splitting a String
+# Day 1 - LeetCode Problem 1442 - Maximum Score After Splitting a String
 
 ## Problem Description
 Given a binary string `s`, you can split it into two non-empty substrings `s1` and `s2` (i.e., `s = s1 + s2`). The score after splitting is the sum of:

@@ -1,4 +1,4 @@
-# Day 2 - LeetCode Problem: Count Vowel Strings in Ranges 🌟
+# Day 2 - LeetCode Problem 2559: Count Vowel Strings in Ranges 🌟
 
 ## Problem Description 📜
 You are given a 0-indexed array of strings `words` and a 2D array of integers `queries`.
